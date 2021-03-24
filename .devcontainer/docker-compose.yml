@@ -1,6 +1,6 @@
 version: "3"
 services:
-  java_dev:
+  python_dev:
     image: marimo1110/debian_python_dev
     #build: .
     command: sleep infinity
