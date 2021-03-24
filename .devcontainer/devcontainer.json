@@ -1,0 +1,12 @@
+{
+    "name": "python_dev",
+    "dockerComposeFile": "docker-compose.yml",
+    "extensions": [
+		"formulahendry.terminal",
+        "ms-python.vscode-pylance",
+		"donjayamanne.githistory"
+	],
+    "service": "python_dev",
+    "workspaceFolder": "/workdir",
+    "shutdownAction": "stopCompose"
+}
